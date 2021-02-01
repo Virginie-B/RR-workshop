@@ -1,8 +1,8 @@
 # Template on Workshop for Reproducible research at ENSGSI
 
-**Name of the student:** Add your name <Virignie-B>
-**Date:** XX/XX/XXXX   <01/02/2021>
-**Course:** Add your cursus <3AI>
+**Name of the student:** Virginie-B <br>
+**Date:** 01/02/2021   <br>
+**Course:** 3AI <br>
 
 ## Purpose
 > The purpose of thi repository contains the files and tutorial on the reproducible research.
